@@ -1,0 +1,18 @@
+/* body style set up */
+
+body{
+    margin:0;
+    overflow:hidden;
+    background: #3d5a80 ;
+
+}
+
+/*  Image style set up */
+img{
+    width : 50%;
+    position: fixed;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    z-index:-0.1 ;
+}
